@@ -32,7 +32,7 @@ Features:
 
 To deploy YOUR version of **Azure Url Shortener** you could fork this repo, but if you are looking for the easy way just click on the "Deploy to Azure".
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?WT.mc_id=dotnet-0000-frbouche#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FFBoucher%2FAzUrlShortener%2Fmain-v1%2Fdeployment%2FazureDeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?WT.mc_id=dotnet-0000-geoimpact#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fgeoimpact%2FAzUrlShortener%2Fmain-v1%2Fdeployment%2FazureDeploy.json)
 
 To have all details and alternative deployment refer to the [Deployment Details](https://github.com/FBoucher/AzUrlShortener/blob/main-v1/azFunctions-deployment.md) page.
 
